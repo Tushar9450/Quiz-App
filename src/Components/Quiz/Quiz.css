@@ -81,3 +81,6 @@ button:hover {
     background: #ffdfdf;
     border-color: #ff4a4a;
 }
+.locked li{
+  pointer-events: none;
+}
